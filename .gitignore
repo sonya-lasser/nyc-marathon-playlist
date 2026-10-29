@@ -1,0 +1,17 @@
+# Credentials and authentication
+.Renviron
+.env
+.httr-oauth*
+cache/
+
+# Local R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Mac files
+.DS_Store
+
+# Archived work
+data/archive/
